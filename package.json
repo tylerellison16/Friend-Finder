@@ -1,0 +1,32 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "FriendFinder HW GT Boot Camp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testingtesting",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerellison16/Friend-Finder.git"
+  },
+  "keywords": [
+    "georgia",
+    "tech",
+    "homework",
+    "nodejs"
+  ],
+  "author": "Tyler Ellison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerellison16/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/tylerellison16/Friend-Finder#readme"
+}
